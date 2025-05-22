@@ -2,6 +2,6 @@
 
 ```bash
 projects/
-__argo-rolllouts        __charts/
+|__argo-rolllouts        |__charts/
 ```
 
